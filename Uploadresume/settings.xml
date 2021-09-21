@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:testSuite id="b331df3d-1802-4c88-866a-1f3d4dca38cf" name="Uploadresume" xmlns:con="http://eviware.com/soapui/config"><con:description>TestSuite generated for REST Service [https://test.freshvoice.in]</con:description><con:settings><con:setting id="b331df3d-1802-4c88-866a-1f3d4dca38cffileName">Uploadresume</con:setting></con:settings><con:runType>SEQUENTIAL</con:runType><con:properties/><con:reportParameters/></con:testSuite>

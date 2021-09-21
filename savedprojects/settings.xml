@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:testSuite id="09b28c37-f4fa-41bc-b5cd-5f4e16ba852b" name="savedprojects" xmlns:con="http://eviware.com/soapui/config"><con:description>TestSuite generated for REST Service [https://test.freshvoice.in]</con:description><con:settings><con:setting id="09b28c37-f4fa-41bc-b5cd-5f4e16ba852bfileName">savedprojects</con:setting></con:settings><con:runType>SEQUENTIAL</con:runType><con:properties/><con:reportParameters/></con:testSuite>

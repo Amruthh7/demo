@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:testSuite id="ad8cc2a4-4eaa-4a92-813e-c42cb97eac16" name="Notificationalerts" xmlns:con="http://eviware.com/soapui/config"><con:description>TestSuite generated for REST Service [https://test.freshvoice.in]</con:description><con:settings><con:setting id="ad8cc2a4-4eaa-4a92-813e-c42cb97eac16fileName">Notificationalerts</con:setting></con:settings><con:runType>SEQUENTIAL</con:runType><con:properties/><con:reportParameters/></con:testSuite>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:testSuite id="97e5d770-521a-4dc0-bb9a-83fb98297660" name="Edit Profile" xmlns:con="http://eviware.com/soapui/config"><con:description>TestSuite generated for REST Service [https://test.freshvoice.in]</con:description><con:settings><con:setting id="97e5d770-521a-4dc0-bb9a-83fb98297660fileName">Edit-Profile</con:setting></con:settings><con:runType>SEQUENTIAL</con:runType><con:properties/><con:reportParameters/></con:testSuite>

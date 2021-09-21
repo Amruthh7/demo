@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:interface xsi:type="con:RestService" id="9c62875a-1b73-48a3-80f0-b8e1e3fd2202" wadlVersion="http://wadl.dev.java.net/2009/02" name="https://test.freshvoice.in" type="rest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:con="http://eviware.com/soapui/config"><con:settings><con:setting id="9c62875a-1b73-48a3-80f0-b8e1e3fd2202fileName">https%3A%2F%2Ftest.freshvoice.in4</con:setting></con:settings><con:definitionCache/><con:endpoints><con:endpoint>https://test.freshvoice.in</con:endpoint></con:endpoints></con:interface>

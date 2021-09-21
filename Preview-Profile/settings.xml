@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:testSuite id="f2f26e3c-f42c-4a1b-84ce-fd2f91cf3f8e" name="Preview Profile" xmlns:con="http://eviware.com/soapui/config"><con:description>TestSuite generated for REST Service [https://test.freshvoice.in]</con:description><con:settings><con:setting id="f2f26e3c-f42c-4a1b-84ce-fd2f91cf3f8efileName">Preview-Profile</con:setting></con:settings><con:runType>SEQUENTIAL</con:runType><con:properties/><con:reportParameters/></con:testSuite>

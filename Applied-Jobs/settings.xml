@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:testSuite id="e8a88da6-a98e-48b4-9ceb-b937c6957fcf" name="Applied Jobs" xmlns:con="http://eviware.com/soapui/config"><con:description>TestSuite generated for REST Service [https://test.freshvoice.in]</con:description><con:settings><con:setting id="e8a88da6-a98e-48b4-9ceb-b937c6957fcffileName">Applied-Jobs</con:setting></con:settings><con:runType>SEQUENTIAL</con:runType><con:properties/><con:reportParameters/></con:testSuite>

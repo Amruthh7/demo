@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:testSuite id="bfd9f67e-8669-4b16-bfb6-74965d0ae6c6" name="Search Jobs" xmlns:con="http://eviware.com/soapui/config"><con:description>TestSuite generated for REST Service [https://test.freshvoice.in]</con:description><con:settings><con:setting id="bfd9f67e-8669-4b16-bfb6-74965d0ae6c6fileName">Search-Jobs</con:setting></con:settings><con:runType>SEQUENTIAL</con:runType><con:properties/><con:reportParameters/></con:testSuite>
